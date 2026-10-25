@@ -1,67 +1,35 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.svg"><img src="assets/workbench-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게."></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/orbital-dark.svg">
-  <img src="assets/orbital-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게.">
-</picture>
+### 호기심으로 시작해서, 돌아가게 만들기.
 
-<br>
+윤준명입니다. 아이디어를 실제로 쓰이는 서비스로 만드는 걸 좋아합니다.<br>
+AI와 함께 만들고, 막히면 파고들고, 그 과정에서 배웁니다.
 
-**윤준명 · newbission**<br>
-아이디어를 실제로 돌아가는 서비스로 만드는 걸 좋아합니다.<br>
-만들고, 부딪히고, 배우는 중.
+<sub>CURRENTLY BUILDING / HTM · BACKEND · AI · OPERATIONS</sub>
 
-<p>
-<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-2455E6?style=for-the-badge&amp;labelColor=101A30" alt="Portfolio"></a>
-<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/RESUME_%E2%86%97-172C52?style=for-the-badge" alt="Resume"></a>
-</p>
+<table><tr><td width="50%" valign="middle"><a href="https://newbission.github.io/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-portfolio-dark.svg"><img src="assets/wb-portfolio-light.svg" width="100%" alt="프로젝트 구경하기"></picture></a></td><td width="50%" valign="middle"><a href="https://newbission.github.io/portfolio/#resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-resume-dark.svg"><img src="assets/wb-resume-light.svg" width="100%" alt="이력서 보기"></picture></a></td></tr></table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img src="assets/tools-light.svg" width="850" alt="Toolbox — what I work with">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-toolbox-dark.svg"><img src="assets/wb-toolbox-light.svg" width="100%" alt="Tools on the desk"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/backend-dark.svg">
-  <img src="assets/backend-light.svg" alt="Python · Django · FastAPI · Node.js" height="44">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
-  <img src="assets/infra-light.svg" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="44">
-</picture>
+<table><tr><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-backend-dark.svg"><img src="assets/wb-backend-light.svg" width="100%" alt="Python · Django · FastAPI · Node.js — Code and services"></picture></td><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-infra-dark.svg"><img src="assets/wb-infra-light.svg" width="100%" alt="AWS · Docker · Nginx · GitHub Actions · Git — Ship and operate"></picture></td></tr></table>
 
-<sub>Backend &amp; AI integration · Cloud &amp; automation</sub>
+<sub>프로젝트에서 사용해 본 기술들입니다. 어떤 부분을 직접 맡았는지는 포트폴리오에서 확인할 수 있어요.</sub>
 
-<br>
+<details>
+<summary>분야별 활용 경험 더 보기</summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" width="850" alt="Activity — small steps, real progress">
-</picture>
+- **배포·운영:** AWS EC2 · RDS · S3 · CloudFront · IAM · ALB, GitHub Actions, Nginx · Certbot
+- **데이터·실시간 처리:** Kafka · Redis · RTSP
+- **AI 기능 연동:** YOLO, OCR·음성 인식 모델 실행·연동, ChatGPT API
+- **조회 도구·보고서:** C# · WinForms · HTML
+- **개발 도구:** Claude 웹 · Claude Code
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github" width="680" alt="GitHub contribution summary">
-</picture>
+프로젝트에 따라 직접 구현한 부분과 AI를 활용한 범위가 다릅니다. 자세한 역할은 [포트폴리오](https://newbission.github.io/portfolio/)에 정리했습니다.
 
-<br>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbission&amp;theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbission&amp;theme=github" width="330" alt="GitHub activity statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbission&amp;theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbission&amp;theme=github" width="330" alt="Languages across public repositories">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-log-dark.svg"><img src="assets/wb-log-light.svg" width="100%" alt="The commit trail — little by little, commit by commit"></picture>
 
+<table><tr><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=zenburn"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github" width="100%" alt="실제 공개 GitHub 활동 통계"></picture></td><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-note-dark.svg"><img src="assets/wb-note-light.svg" width="100%" alt="A note to self — 처음 해보는 일도, 끝까지 해보는 쪽으로."></picture></td></tr></table>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="850" alt="Still a newbie. Always a builder.">
-</picture>
-
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-footer-dark.svg"><img src="assets/wb-footer-light.svg" width="100%" alt="Newbie mindset. Endless ambition. See you at the next commit."></picture>
