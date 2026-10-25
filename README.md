@@ -35,15 +35,15 @@ AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cdjango%2Cfastapi%2Cnodejs&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=python%2Cdjango%2Cfastapi%2Cnodejs&amp;theme=light" alt="Python · Django · FastAPI · Node.js" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/backend-dark.svg">
+  <img src="assets/backend-light.svg" alt="Python · Django · FastAPI · Node.js" height="48">
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cdocker%2Cnginx%2Cgithubactions%2Cgit&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=aws%2Cdocker%2Cnginx%2Cgithubactions%2Cgit&amp;theme=light" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
+  <img src="assets/infra-light.svg" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="48">
 </picture>
 
 <br><br>
