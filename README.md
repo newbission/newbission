@@ -2,59 +2,43 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="hello, i'm newbission — newbie, ambition, passion">
+  <img src="assets/banner-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게.">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1100&amp;color=438AFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Stay+curious.+Keep+building.;From+ideas+to+things+that+work.;Newbie+mindset%2C+endless+ambition." width="600" alt="Stay curious. Keep building.">
-
-### 신인의 자세로, 열정과 패기 있게 🚀
-
-안녕하세요, 윤준명입니다 👋<br>
-아이디어가 실제로 돌아가는 순간을 좋아합니다.<br>
-AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
-
 <br>
 
-<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-3578F6?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-1D3557?style=for-the-badge" alt="Resume"></a>
+**윤준명 · newbission**<br>
+아이디어를 실제로 돌아가는 서비스로 만드는 걸 좋아합니다.<br>
+만들고, 부딪히고, 배우는 중.
 
-<br><br>
+<p>
+<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-2455E6?style=for-the-badge&amp;labelColor=101A30" alt="Portfolio"></a>
+<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/RESUME_%E2%86%97-172C52?style=for-the-badge" alt="Resume"></a>
+</p>
 
-### 🧑‍💻 A little about me
-
-🔭 근태·채용·매장 운영을 연결하는 **HTM**을 만들고 운영하고 있어요.<br>
-🧩 **백엔드 · AI 서비스 연동 · 배포 자동화**에 관심이 있어요.<br>
-🌱 직접 만든 서비스의 구조와 코드를 더 깊이 이해하며 배우고 있어요.
-
-<br>
-
-### 🛠️ My toolbox
-
-<sub>프로젝트에서 사용해 본 도구들</sub>
-
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
+  <img src="assets/tools-light.svg" width="850" alt="Toolbox — what I work with">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/backend-dark.svg">
-  <img src="assets/backend-light.svg" alt="Python · Django · FastAPI · Node.js" height="48">
+  <img src="assets/backend-light.svg" alt="Python · Django · FastAPI · Node.js" height="44">
 </picture>
-
-<br><br>
-
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/infra-dark.svg">
-  <img src="assets/infra-light.svg" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="48">
+  <img src="assets/infra-light.svg" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="44">
 </picture>
 
-<br><br>
+<sub>Backend &amp; AI integration · Cloud &amp; automation</sub>
 
-<img src="https://img.shields.io/badge/Claude_Code-141B2D?style=flat-square&amp;logo=claude&amp;logoColor=D4A27F" alt="Claude Code">
-<img src="https://img.shields.io/badge/AI_Integration-2455E6?style=flat-square" alt="AI integration">
-<img src="https://img.shields.io/badge/Build_%E2%86%92_Ship_%E2%86%92_Learn-3578F6?style=flat-square" alt="Build, ship, learn">
+<br>
 
-<br><br>
-
-### 📊 On my GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" width="850" alt="Activity — small steps, real progress">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github_dark">
@@ -72,13 +56,12 @@ AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbission&amp;theme=github" width="330" alt="Languages across public repositories">
 </picture>
 
-<br><br>
 
-<sub>작업 이야기가 궁금하다면? 👀</sub><br>
-<a href="https://newbission.github.io/portfolio/"><b>포트폴리오 구경하기 ↗</b></a>
+<br>
 
-<br><br>
-
-**stay new. keep building.** 🌊
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="850" alt="Still a newbie. Always a builder.">
+</picture>
 
 </div>
