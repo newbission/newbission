@@ -1,8 +1,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.svg"><img src="assets/workbench-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게."></picture>
 
-### 호기심으로 시작해서, 돌아가게 만들기.
+### 호기심 따라, 이것저것 알아가는 중.
 
-윤준명입니다. 아이디어를 실제로 쓰이는 서비스로 만드는 걸 좋아합니다.<br>
+아이디어를 떠올리고, 궁금한 건 질문하며 알아가는 걸 좋아합니다.<br>
 AI와 함께 만들고, 막히면 파고들고, 그 과정에서 배웁니다.
 
 <sub>CURRENTLY BUILDING / HTM · BACKEND · AI · OPERATIONS</sub>
