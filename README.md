@@ -1,49 +1,84 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="newbission — 신인의 자세로, 열정과 패기 있게." src="assets/banner-light.svg" width="100%">
+  <img src="assets/banner-light.svg" width="100%" alt="hello, i'm newbission — newbie, ambition, passion">
 </picture>
 
-## 안녕하세요, 윤준명입니다.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1100&amp;color=438AFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Stay+curious.+Keep+building.;From+ideas+to+things+that+work.;Newbie+mindset%2C+endless+ambition." width="600" alt="Stay curious. Keep building.">
 
-업무의 흐름을 설계하고, AI와 함께 제품을 만들며, 운영에서 만난 문제를 개선합니다.<br>
-근태·채용 시스템부터 AI API와 영상 분석까지, 실제로 쓰이는 서비스로 연결해 왔습니다.
+### 신인의 자세로, 열정과 패기 있게 🚀
 
-**newbie + ambition + passion = newbission**<br>
-신인의 자세로 배우고, 열정과 패기로 끝까지 만들어갑니다.
+안녕하세요, 윤준명입니다 👋<br>
+아이디어가 실제로 돌아가는 순간을 좋아합니다.<br>
+AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
 
-<p>
-  <a href="https://newbission.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2455E6?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"></a>
-  <a href="https://newbission.github.io/portfolio/#resume"><img alt="Resume" src="https://img.shields.io/badge/Resume-14264D?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white"></a>
-</p>
+<br>
 
-### Tools I've worked with
+<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-3578F6?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/📄_Resume-1D3557?style=for-the-badge" alt="Resume"></a>
+
+<br><br>
+
+### 🧑‍💻 A little about me
+
+🔭 근태·채용·매장 운영을 연결하는 **HTM**을 만들고 운영하고 있어요.<br>
+🧩 **백엔드 · AI 서비스 연동 · 배포 자동화**에 관심이 있어요.<br>
+🌱 직접 만든 서비스의 구조와 코드를 더 깊이 이해하며 배우고 있어요.
+
+<br>
+
+### 🛠️ My toolbox
+
+<sub>프로젝트에서 사용해 본 도구들</sub>
+
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,aws,docker,nginx,githubactions,git&amp;theme=dark&amp;perline=9">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,aws,docker,nginx,githubactions,git&amp;theme=light&amp;perline=9">
-  <img alt="Python, Django, FastAPI, Node.js, AWS, Docker, Nginx, GitHub Actions, Git" src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,aws,docker,nginx,githubactions,git&amp;theme=light&amp;perline=9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&amp;theme=light" alt="Python · Django · FastAPI · Node.js" height="48">
 </picture>
 
-사용 경험이 있는 기술입니다. 프로젝트별 활용 범위와 담당 역할은 포트폴리오에 정리했습니다.
+<br><br>
 
-### Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git&amp;theme=light" alt="AWS · Docker · Nginx · GitHub Actions · Git" height="48">
+</picture>
 
-| 프로젝트 | 내가 해결한 문제 |
-| :--- | :--- |
-| **[HTM · 매장 운영 시스템](https://newbission.github.io/portfolio/#project/htm)** | 근태·스케줄·채용의 업무 흐름 설계, AWS 운영 환경 분리와 배포 자동화 |
-| **문서·음성 AI 파이프라인** | 기존 처리 흐름의 지연·한글 인식 문제 개선, AI API·HTTPS 배포 |
-| **CCTV 분석·오토라벨링** | 모듈별 디버깅을 통한 병목 개선, RTSP 분석 결과와 Kafka·Redis 연계 |
-| **망원시장 방문객 분석** | 영상 통계를 조회·비교 도구와 ChatGPT API 기반 보고서로 연결 |
+<br><br>
 
-→ **[프로젝트 과정과 담당 범위 자세히 보기](https://newbission.github.io/portfolio/#portfolio)**
+<img src="https://img.shields.io/badge/Claude_Code-141B2D?style=flat-square&amp;logo=claude&amp;logoColor=D4A27F" alt="Claude Code">
+<img src="https://img.shields.io/badge/AI_Integration-2455E6?style=flat-square" alt="AI integration">
+<img src="https://img.shields.io/badge/Build_→_Ship_→_Learn-3578F6?style=flat-square" alt="Build, ship, learn">
 
-### How I build
+<br><br>
 
-- **문제를 구체적으로:** 요구사항을 업무 규칙과 시스템 흐름으로 정리합니다.
-- **AI와 함께 실행:** 대안을 비교하고 구현하며 실제 동작과 세부 조건을 확인합니다.
-- **끝까지 개선:** 오류와 병목을 추적하고 운영에서 얻은 피드백을 반영합니다.
+### 📊 On my GitHub
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github" width="680" alt="GitHub contribution summary">
+</picture>
 
-<p align="center"><sub>STAY NEW. BUILD WITH AMBITION. KEEP THE PASSION.</sub></p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbission&amp;theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbission&amp;theme=github" width="330" alt="GitHub activity statistics">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbission&amp;theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbission&amp;theme=github" width="330" alt="Languages across public repositories">
+</picture>
+
+<br><br>
+
+<sub>작업 이야기가 궁금하다면? 👀</sub><br>
+<a href="https://newbission.github.io/portfolio/"><b>포트폴리오 구경하기 ↗</b></a>
+
+<br><br>
+
+**stay new. keep building.** 🌊
+
+</div>

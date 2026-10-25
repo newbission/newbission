@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080F20"/><stop offset="1" stop-color="#102357"/></linearGradient><radialGradient id="glow"><stop stop-color="#3B6BFF" stop-opacity=".5"/><stop offset="1" stop-color="#3B6BFF" stop-opacity="0"/></radialGradient><linearGradient id="line"><stop stop-color="#3B6BFF"/><stop offset="1" stop-color="#66D9FF"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#93B3FF" stroke-opacity=".07"/></pattern></defs>
-<rect width="1200" height="340" rx="16" fill="url(#bg)"/><rect width="1200" height="340" rx="16" fill="url(#grid)"/><ellipse cx="990" cy="120" rx="360" ry="310" fill="url(#glow)"/>
-<g fill="none" stroke="url(#line)"><path d="M908 238V104l90 134V104" stroke-width="14"/><path d="M1058 86h38v38M1096 86l-72 72" stroke-width="5"/><circle cx="990" cy="166" r="130" opacity=".16"/><circle cx="990" cy="166" r="151" opacity=".08"/></g>
-<rect x="54" y="57" width="28" height="3" fill="#66D9FF"/><text x="94" y="64" fill="#91A9D8" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">ENGINEERING · BUILDING · LEARNING</text>
-<text x="50" y="161" fill="#F1F5FF" font-family="Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">newbission<tspan fill="#66D9FF">.</tspan></text>
-<text x="55" y="210" fill="#A4B9E6" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">NEWBIE + AMBITION + PASSION</text>
-<text x="55" y="278" fill="#E0E9FF" font-family="Arial,Apple SD Gothic Neo,sans-serif" font-size="21">신인의 자세로, 열정과 패기 있게.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="235" viewBox="0 0 1000 235" role="img" aria-label="newbission — keep learning, keep building">
+<defs><linearGradient id="ocean"><stop stop-color="#2455E6"/><stop offset="1" stop-color="#51C8FF"/></linearGradient></defs>
+<style>.spark{animation:blink 3s ease-in-out infinite}.wave{animation:drift 7s ease-in-out infinite alternate}@keyframes blink{50%{opacity:.25}}@keyframes drift{to{transform:translateX(-35px)}}@media(prefers-reduced-motion:reduce){.spark,.wave{animation:none}}</style>
+<rect width="1000" height="235" rx="14" fill="#0D172E"/>
+<g fill="#96BFFF" font-family="monospace" font-size="20" opacity=".5"><text x="65" y="75">&lt;/&gt;</text><text x="875" y="95">{ }</text><text x="815" y="42">✧</text><text class="spark" x="172" y="140">+</text><text class="spark" x="855" y="157">✦</text><text x="115" y="34">·</text></g>
+<text x="500" y="93" text-anchor="middle" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-2" fill="#EAF4FF">hello, i'm newbission<tspan fill="#438AFF">_</tspan></text>
+<text x="500" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#96BFFF">NEWBIE · AMBITION · PASSION</text>
+<g class="wave"><path d="M-40 183Q100 145 260 188T580 182T1040 180V250H-40Z" fill="url(#ocean)" opacity=".25"/><path d="M-40 199Q120 166 300 201T650 198T1040 195V250H-40Z" fill="url(#ocean)" opacity=".55"/><path d="M-40 219Q160 184 340 218T720 213T1040 216V250H-40Z" fill="url(#ocean)"/></g></svg>
