@@ -28,8 +28,6 @@ AI와 함께 만들고, 막히면 파고들고, 그 과정에서 배웁니다.
 
 </details>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-log-dark.svg"><img src="assets/wb-log-light.svg" width="100%" alt="The commit trail — little by little, commit by commit"></picture>
-
-<table><tr><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=zenburn"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbission&amp;theme=github" width="100%" alt="실제 공개 GitHub 활동 통계"></picture></td><td width="50%" valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-note-dark.svg"><img src="assets/wb-note-light.svg" width="100%" alt="A note to self — 처음 해보는 일도, 끝까지 해보는 쪽으로."></picture></td></tr></table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-note-wide-dark.svg"><img src="assets/wb-note-wide-light.svg" width="100%" alt="A note to self — 처음 해보는 일도, 끝까지 해보는 쪽으로."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wb-footer-dark.svg"><img src="assets/wb-footer-light.svg" width="100%" alt="Newbie mindset. Endless ambition. See you at the next commit."></picture>

@@ -70,3 +70,10 @@ for theme in ['dark','light']:
  (A/f'wb-note-{theme}.svg').write_text(note)
  footer=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="52" viewBox="0 0 1100 52"><path d="M0 1H1100" stroke="{line}"/><text x="0" y="32" {M} font-size="11" letter-spacing="1.5" fill="{muted}">NEWBIE MINDSET. <tspan fill="{lime}">ENDLESS AMBITION.</tspan></text><text x="1100" y="32" text-anchor="end" {M} font-size="10" fill="{muted}">SEE YOU AT THE NEXT COMMIT ▪</text></svg>'''
  (A/f'wb-footer-{theme}.svg').write_text(footer)
+
+# Full-width closing note; keep it as the last content block.
+for theme in ['dark', 'light']:
+    dark = theme == 'dark'
+    bg, ink, soft, line, accent = ('#20261F','#EFEDE4','#949D90','#343B32','#D1EF80') if dark else ('#E7E9DF','#222620','#697262','#D4D8C9','#48681F')
+    note = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190"><rect x="1" y="1" width="1098" height="188" rx="8" fill="{bg}" stroke="{line}"/><text x="32" y="39" {M} font-size="11" letter-spacing="2" fill="{soft}">A NOTE TO SELF</text><text x="32" y="92" {S} font-size="29" fill="{ink}">처음 해보는 일도, <tspan fill="{accent}">끝까지</tspan> 해보는 쪽으로.</text><text x="32" y="139" {S} font-size="15" fill="{soft}">신인의 자세는 잃지 않고, 만드는 사람으로 계속 나아가기.</text></svg>'''
+    (A / f'wb-note-wide-{theme}.svg').write_text(note)
