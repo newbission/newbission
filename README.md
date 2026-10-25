@@ -15,8 +15,8 @@ AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
 
 <br>
 
-<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-3578F6?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/📄_Resume-1D3557?style=for-the-badge" alt="Resume"></a>
+<a href="https://newbission.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-3578F6?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://newbission.github.io/portfolio/#resume"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-1D3557?style=for-the-badge" alt="Resume"></a>
 
 <br><br>
 
@@ -50,7 +50,7 @@ AI와 함께 만들고, 막히면 파고들고, 조금씩 더 나아갑니다.
 
 <img src="https://img.shields.io/badge/Claude_Code-141B2D?style=flat-square&amp;logo=claude&amp;logoColor=D4A27F" alt="Claude Code">
 <img src="https://img.shields.io/badge/AI_Integration-2455E6?style=flat-square" alt="AI integration">
-<img src="https://img.shields.io/badge/Build_→_Ship_→_Learn-3578F6?style=flat-square" alt="Build, ship, learn">
+<img src="https://img.shields.io/badge/Build_%E2%86%92_Ship_%E2%86%92_Learn-3578F6?style=flat-square" alt="Build, ship, learn">
 
 <br><br>
 
