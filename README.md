@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/orbital-dark.svg">
+  <img src="assets/orbital-light.svg" width="100%" alt="newbission — newbie + ambition + passion. 신인의 자세로, 열정과 패기 있게.">
 </picture>
 
 <br>

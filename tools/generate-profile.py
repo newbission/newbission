@@ -41,7 +41,7 @@ for theme in ['dark','light']:
 <circle cx="62" cy="315" r="3" fill="{blue}"/>
 <text x="78" y="320" fill="{soft}" font-family="monospace" font-size="13"><tspan fill="{blue}">~/newbission</tspan><tspan> $ keep learning &amp;&amp; keep building</tspan><tspan class="cursor" fill="{blue}"> ▌</tspan></text>
 </g></svg>'''
-    (OUT / f'banner-{theme}.svg').write_text(header)
+    (OUT / f'orbital-{theme}.svg').write_text(header)
     for file,label,sub in [('tools','TOOLBOX','what I work with'),('activity','ACTIVITY','small steps, real progress')]:
         (OUT/f'{file}-{theme}.svg').write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="850" height="54" viewBox="0 0 850 54"><path d="M0 30H228M622 30H850" stroke="{border}"/><circle cx="242" cy="30" r="3" fill="{blue}"/><text x="425" y="25" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="4" fill="{ink}">{label}</text><text x="425" y="45" text-anchor="middle" font-family="monospace" font-size="10" fill="{soft}">{sub}</text><circle cx="608" cy="30" r="3" fill="{blue}"/></svg>''')
     (OUT/f'footer-{theme}.svg').write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" width="850" height="65" viewBox="0 0 850 65"><path d="M0 5H850" stroke="{border}"/><text x="0" y="38" font-family="monospace" font-size="10" letter-spacing="2" fill="{soft}">STILL A NEWBIE. ALWAYS A BUILDER.</text><g fill="{blue}"><rect x="793" y="26" width="8" height="8" opacity=".3"/><rect x="811" y="26" width="8" height="8" opacity=".6"/><rect x="829" y="26" width="8" height="8"/></g></svg>''')
